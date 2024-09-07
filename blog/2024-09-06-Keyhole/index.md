@@ -11,7 +11,7 @@ image: /img/blog_card.png
 # Keyhole
 
 By WitherOrNot  
-Edited by May, Lyssa & echnobas
+Edited by May, Lyssa, & echnobas
 
 ## Introduction
 
